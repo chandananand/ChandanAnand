@@ -1,0 +1,45 @@
+{
+"tvshows":[
+    {
+        "name":"American Digger",
+        "seasons":"1",
+        "episodes":[
+            "Ice Cold Gold",
+            "Motor City Money",
+            "Savage Shark Hunt",
+            "Moonshine Money",
+            "Cherokee Treasure Trove",
+            "The Bowels of Brooklyn",
+            "Blood, Sweat, and Money",
+            "New World Treasure",
+            "Unearthing Controversy",
+            "Mob Money",
+            "Spoils of War",
+            "The Fountain of Cash",
+            "Buried Bucks in the Bayou"
+        ]
+    },
+    {
+        "name":"Ancient Aliens",
+        "seasons":"12",
+        "episodes":[
+            "The Alien Hunters",
+            "Forged by the Gods",
+            "The Mystery of Rudloe Manor",
+            "The Alien Architects",
+            "The Pharaohs' Curse",
+            "The Science Wars",
+            "City of the Gods",
+            "The Alien Frequency",
+            "The Majestic Twelve",
+            "The Akashic Record",
+            "Voices of the Gods",
+            "The Animal Agenda",
+            "The Replicants",
+            "A Spaceship Made of Stone",
+            "The Alien Disks",
+            "Return to Gobekli Tepe"
+        ]
+    }
+]
+}

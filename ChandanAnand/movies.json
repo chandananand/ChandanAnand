@@ -1,0 +1,52 @@
+{
+"movies":[
+    {
+        "name":"Beauty and the Beast",
+        "rating":"7.3/10",
+        "cast":[
+            "Emma Watson as Belle",
+            "Dan Stevens as Prince Adam / The Beast",
+            "Luke Evans as Gaston",
+            "Kevin Kline as Maurice",
+            "Ewan McGregor as Lumière",
+            "Stanley Tucci as Maestro Cadenza",
+            "Audra McDonald as Madame de Garderobe",
+            "Gugu Mbatha-Raw as Plumette",
+            "Ian McKellen as Cogsworth",
+            "Emma Thompson as Mrs. Potts",
+            "Hattie Morahan as Agathe",
+            "Nathan Mack as Chip"
+        ]
+    },
+    {
+        "name":"The Fate of the Furious",
+        "rating":"6.8/10",
+        "cast":[
+            "Vin Diesel as Dominic Toretto",
+            "Dwayne Johnson as Luke Hobbs",
+            "Jason Statham as Deckard Shaw",
+            "Michelle Rodriguez as Letty Ortiz",
+            "Tyrese Gibson as Roman Pearce",
+            "Chris Ludacris Bridges as Tej Parker",
+            "Scott Eastwood as Little Nobody",
+            "Nathalie Emmanuel as Ramsey",
+            "Elsa Pataky as Elena Neves",
+            "Kurt Russell as Mr. Nobody",
+            "Charlize Theron as Cipher"
+        ]
+    },
+    {
+        "name": "Despicable Me 3",
+        "rating":"6.3/10",
+        "cast":[
+            "Steve Carell as Felonious Gru",
+            "Carell also voices Dru",
+            "Kristen Wiig as Lucy Wilde",
+            "Trey Parker as Balthazar Bratt",
+            "Miranda Cosgrove as Margo",
+            "Dana Gaier as Edith",
+            "Nev Scharrel as Agnes",
+        ]
+    }
+]
+}
